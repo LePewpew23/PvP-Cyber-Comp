@@ -1,0 +1,13 @@
+{
+  "ExpectedComputerName": "sunflower",
+  "ServerDnsName": "sunflower.misty.view",
+  "SmbClientSources": [],
+  "ScoringSources": [],
+  "ManagementSources": [],
+  "ManagementTcpPorts": [3389],
+  "ConsoleOnlyManagement": false,
+  "PingSources": ["Any"],
+  "PreserveInboundRuleNames": [],
+  "ReviewedInboundBlockRuleNames": [],
+  "AdditionalInbound": []
+}

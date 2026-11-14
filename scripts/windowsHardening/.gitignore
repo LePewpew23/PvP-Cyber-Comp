@@ -1,0 +1,7 @@
+config/firewall.json
+reports/
+*.wfw
+*.clixml
+change.json
+state.json
+user-removal-report.json

@@ -1,0 +1,5 @@
+scope.json
+reports/
+__pycache__/
+tests/__pycache__/
+*.pyc
